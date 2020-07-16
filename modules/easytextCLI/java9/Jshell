@@ -1,0 +1,11 @@
+
+G:\>jshell
+|  Welcome to JShell -- Version 9-ea
+|  For an introduction type: /help intro
+
+
+jshell> int a = 10
+a ==> 10
+
+jshell> System.out.println("a value = " + a )
+a value = 10
